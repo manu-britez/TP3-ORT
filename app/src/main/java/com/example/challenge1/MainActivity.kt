@@ -5,6 +5,9 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.compose.runtime.*
+import com.example.challenge1.pages.LoginScreen
+import com.example.challenge1.pages.RegisterScreen
+import com.example.challenge1.pages.WelcomeScreen
 import com.example.challenge1.ui.theme.Challenge1Theme
 
 class MainActivity : ComponentActivity() {

@@ -1,4 +1,4 @@
-package com.example.challenge1
+package com.example.challenge1.pages
 
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.Image
@@ -18,6 +18,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.example.challenge1.R
 import com.example.challenge1.ui.theme.Challenge1Theme
 import com.example.challenge1.ui.theme.PrimaryBlue
 
